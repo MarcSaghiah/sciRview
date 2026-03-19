@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Environnement virtuel
+venv/
+
+# Base vectorielle locale
+data/chroma_db/
+
+# PDFs téléchargés
+data/pdfs/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Cache HuggingFace (modèles lourds — ne pas committer)
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

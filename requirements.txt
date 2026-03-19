@@ -1,0 +1,25 @@
+# sciRview - requirements
+
+# UI
+streamlit
+
+# Traduction automatique
+deep-translator
+
+# Extraction et parsing
+arxiv
+biopython
+pymupdf
+pdfminer.six
+
+# Vector DB
+chromadb
+
+# Embeddings (RAG)
+sentence-transformers
+
+# Divers
+requests
+python-dotenv
+ddgs
+groq
