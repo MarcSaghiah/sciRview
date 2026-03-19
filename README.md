@@ -265,3 +265,7 @@ The package was renamed. Run: `pip install ddgs`
 ## 📄 License
 
 MIT — Open source project, contributions welcome.
+
+---
+
+**Author: Marc Saghiah**
